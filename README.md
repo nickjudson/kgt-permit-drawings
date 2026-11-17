@@ -6,4 +6,3 @@ Three building permit drawing sets, one per building:
 - [ADU #1](323-King-George-Terrace-ADU-1-drawings.pdf) (19 sheets, 18" × 12")
 - [ADU #2](323-King-George-Terrace-ADU-2-drawings.pdf) (19 sheets, 18" × 12")
 
-Owner-prepared drawings for building permit. Not for construction.
